@@ -1,0 +1,9 @@
+.lh/
+
+.history/
+
+.vscode/
+
+*.code-workspace
+
+./assets/extras/
